@@ -40,6 +40,8 @@ const tdelrealb = {
 
 </div>
 
+<br>
+
 <p align='center'>Connect with me</p>
 <p align='center'>
 <a href='https://linkedin.com/in/tdelrealb' target='blank'>
