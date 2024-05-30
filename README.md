@@ -4,15 +4,6 @@
 <img src="./card.png">
 </p>
 
-<p align='left'>👨‍💻 Web developer with one year of experience in Santiago, Chile. Specialized in front-end and back-end development, with a focus on technologies such as JavaScript, HTML, CSS, and frameworks like React and Node.js. Passionate about creating fluid and functional web experiences.
-
-<br>
-🧠 Constantly looking to learn and improve my technical skills, as well as keeping up to date with the latest trends and best practices in web development. I strongly believe in the power of clean and well-structured code for easy maintenance and scalability of projects.
-
-<br>
-🚀 Always open to new opportunities for collaboration and professional growth - let's connect and do amazing things together!</p>
-<br>
-
 ```js
 const tdelrealb = {
   pronouns: "he" | "him",
@@ -23,6 +14,15 @@ const tdelrealb = {
   tools: [AWS, Docker, Google Cloud]
 };
 ```
+<br>
+
+<p align='left'>👨‍💻 Web developer with one year of experience in Santiago, Chile. Specialized in front-end and back-end development, with a focus on technologies such as JavaScript, HTML, CSS, and frameworks like React and Node.js. Passionate about creating fluid and functional web experiences.
+
+<br>
+🧠 Constantly looking to learn and improve my technical skills, as well as keeping up to date with the latest trends and best practices in web development. I strongly believe in the power of clean and well-structured code for easy maintenance and scalability of projects.
+
+<br>
+🚀 Always open to new opportunities for collaboration and professional growth - let's connect and do amazing things together!</p>
 <br>
 
 <h3 align='left'>Experience</h3>
