@@ -34,6 +34,12 @@ const tdelrealb = {
 
 <br>
 
+<div align='center'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdelrealb&hide_progress=true)
+
+</div>
+
 <p align='center'>Connect with me</p>
 <p align='center'>
 <a href='https://linkedin.com/in/tdelrealb' target='blank'>
