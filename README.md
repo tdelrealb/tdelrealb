@@ -1,10 +1,16 @@
-<!-- <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/140478770?v=4" style="border-radius:50%"/>
-</p> -->
+<h1 align='left'>Hi there, Tomás here👋</h1>
 
-<h3 align='center'>Hi there, I'm Tomás 👋</h3>
+<p> 
+<img src="./card.png">
+</p>
 
-<p align='center'>Web developer with one year of experience from Santiago, Chile. Passionate about technology and clean code. I try to contribute to open source projects 🚀.</p>
+<p align='left'>👨‍💻 Web developer with one year of experience in Santiago, Chile. Specialized in front-end and back-end development, with a focus on technologies such as JavaScript, HTML, CSS, and frameworks like React and Node.js. Passionate about creating fluid and functional web experiences.
+
+<br>
+🧠 Constantly looking to learn and improve my technical skills, as well as keeping up to date with the latest trends and best practices in web development. I strongly believe in the power of clean and well-structured code for easy maintenance and scalability of projects.
+
+<br>
+🚀 Always open to new opportunities for collaboration and professional growth - let's connect and do amazing things together!</p>
 <br>
 
 ```js
@@ -17,14 +23,15 @@ const tdelrealb = {
   tools: [AWS, Docker, Google Cloud]
 };
 ```
+<br>
 
-<h3 align='center'>Experience</h3>
-<p align='center'> Software Developer on SocialWeb (2024).</p>
+<h3 align='left'>Experience</h3>
+<p align='left'> Software Developer on SocialWeb (2024).</p>
 
-<h3 align='center'>Education</h3>
+<h3 align='left'>Education</h3>
 
-<p align='center'>Coding Dojo | MERN Stack (2023).</p>
-<p align='center'>Universidad del Desarrollo | Film Degree (2017 - 2022).</p>
+<p align='left'>Coding Dojo | MERN Stack (2023).</p>
+<p align='left'>Universidad del Desarrollo | Film Degree (2017 - 2022).</p>
 
 <br>
 
