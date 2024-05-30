@@ -1,6 +1,6 @@
-<p align="center" width="300">
+<!-- <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/140478770?v=4" style="border-radius:50%"/>
-</p>
+</p> -->
 
 <h3 align='center'>Hi there, I'm Tomás 👋</h3>
 
