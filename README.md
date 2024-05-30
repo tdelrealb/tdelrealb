@@ -35,18 +35,6 @@ const tdelrealb = {
 
 <br>
 
-<div align='center'>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdelrealb&show_icons=true&theme=dracula)
-
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdelrealb&repo=Lifesphere-YourLifeOrganizer&theme=dracula)](https://github.com/tdelrealb/Lifesphere-YourLifeOrganizer)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdelrealb&repo=Budibase-CustomComponents&theme=dracula)](https://github.com/tdelrealb/Budibase-CustomComponents)
-
-</div>
-
-<br>
-
 <p align='center'>Connect with me</p>
 <p align='center'>
 <a href='https://linkedin.com/in/tdelrealb' target='blank'>
