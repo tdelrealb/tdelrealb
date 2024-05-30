@@ -23,7 +23,6 @@ const tdelrealb = {
 
 <br>
 🚀 Always open to new opportunities for collaboration and professional growth - let's connect and do amazing things together!</p>
-<br>
 
 <h3 align='left'>Experience</h3>
 <p align='left'> Software Developer on SocialWeb (2024).</p>
