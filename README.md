@@ -25,8 +25,4 @@ const tdelrealb = {
 <a href="https://discord.gg/tdelrealb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tdelrealb" height="30" width="40" /></a>
 </p>
 
-<br>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdelrealb&repo=Lifesphere-YourLifeOrganizer)](https://github.com/tdelrealb/Lifesphere-YourLifeOrganizer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdelrealb&repo=Budibase-CustomComponents)](https://github.com/tdelrealb/Budibase-CustomComponents)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdelrealb&repo=OnPoint-BussinessOperations)](https://github.com/tdelrealb/OnPoint-BussinessOperations)
 
