@@ -14,6 +14,7 @@ const tdelrealb = {
   tools: [AWS, Docker, Google Cloud]
 };
 ```
+
 <br>
 
 <p align='left'>👨‍💻 Web developer with one year of experience in Santiago, Chile. Specialized in front-end and back-end development, with a focus on technologies such as JavaScript, HTML, CSS, and frameworks like React and Node.js. Passionate about creating fluid and functional web experiences.
@@ -36,7 +37,11 @@ const tdelrealb = {
 
 <div align='center'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdelrealb&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdelrealb&show_icons=true&theme=dark)
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdelrealb&repo=Lifesphere-YourLifeOrganizer&theme=dark)](https://github.com/tdelrealb/Lifesphere-YourLifeOrganizer)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdelrealb&repo=Budibase-CustomComponents&theme=dark)](https://github.com/tdelrealb/Budibase-CustomComponents)
 
 </div>
 
